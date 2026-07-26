@@ -1,0 +1,14 @@
+baseURL = "https://yourusername.github.io/gaming-hub/"
+languageCode = "en-us"
+title = "GameHub Daily"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  description = "PC, Xbox, PlayStation & Mobile gaming news, reviews & media"
+  showReadingTime = false
+  disableAssetFingerprinting = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
