@@ -1,7 +1,8 @@
-baseURL = "https://yourusername.github.io/gaming-hub/"
+baseURL = "https://adamofsound.github.io/gaming-hub/"
 languageCode = "en-us"
 title = "GameHub Daily"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
   author = "Your Name"
@@ -12,3 +13,6 @@ theme = "PaperMod"
   ShowShareButtons = false
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+
+[params.assets]
+  customJS = ["js/ads.js"]
