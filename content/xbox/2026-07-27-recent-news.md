@@ -4,7 +4,7 @@ date: "2026-07-27"
 draft: false
 categories: ["xbox"]
 tags: ["gaming", "xbox"]
-image: "/img/gaming/2026-07-27/recent-news.jpg*
+image: ""
 youtube: ""
 ---
 
