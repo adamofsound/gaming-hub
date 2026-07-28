@@ -6,12 +6,26 @@
     <description>Recent content in Categories on GameHub Daily</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://adamofsound.github.io/gaming-hub/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pc</title>
+      <link>https://adamofsound.github.io/gaming-hub/categories/pc/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://adamofsound.github.io/gaming-hub/categories/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Playstation</title>
+      <link>https://adamofsound.github.io/gaming-hub/categories/playstation/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://adamofsound.github.io/gaming-hub/categories/playstation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Xbox</title>
       <link>https://adamofsound.github.io/gaming-hub/categories/xbox/</link>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://adamofsound.github.io/gaming-hub/categories/xbox/</guid>
       <description></description>
     </item>
